@@ -6,7 +6,7 @@ Welcome to the **Summer of Science** program! This repository is your companion 
 
 ## 📅 Program Duration
 
-**Start Date:** 15th May
+**Start Date:** 17th May
 **End Date:** 15th July  
 **Total Duration:** 8 Weeks
 
